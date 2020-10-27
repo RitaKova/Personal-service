@@ -1,1 +1,27 @@
 @import 'local-fonts';
+@font-face {
+	font-family: 'Helios';
+	src: url('fonts/9177.eot');
+	src: local('☺'), url('fonts/9177.woff') format('woff'), url('fonts/9177.ttf') format('truetype'), url('fonts/9177.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HelveticaNeueCyr-Roman';
+	src: url('fonts/9488.eot');
+	src: local('☺'), url('fonts/9488.woff') format('woff'), url('fonts/9488.ttf') format('truetype'), url('fonts/9488.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'HelveticaNeueCyr';
+	src: url('fonts/14788.eot');
+	src: local('☺'), url('fonts/14788.woff') format('woff'), url('fonts/14788.ttf') format('truetype'), url('fonts/14788.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
